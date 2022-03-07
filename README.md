@@ -19,10 +19,11 @@ Pytest . mais fácil de trabalhar!
 
 Para enviar para o servidor, tenho que:
 1) fazer um commit local 
-git add .
-git commit -m "readme atualizado!"
+  git add .
+  git commit -m "readme atualizado!"
 2) fazer um git push
 
 do servidor (GITHUB) para o local
 1)alterar coisas no github
-2) no nosso pc, git pull 
+2) no nosso pc, portanto repositorio local 
+   git pull 
